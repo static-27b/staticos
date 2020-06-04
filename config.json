@@ -1,0 +1,9 @@
+{
+  "token": "BOT TOKEN",
+  "ownerID": "BOT OWNER ID",
+  "invite": "BOT INVITE LINK // IF PRIVATE DELETE THIS AND invite.js FILE",
+  "prefix": "BOT PREFIX",
+  "support": "SUPPORT INVITE LINK",
+  "EMB_COLOR": "EMBED COLOR",
+  "BOT NAME": "BOT NAME THAT WILL GO IN EMBED TITLES"
+}
